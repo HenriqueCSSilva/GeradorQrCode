@@ -25,8 +25,6 @@ class GeradorQr(QMainWindow, Ui_MainWindow):
             meuQR.png(f'{nome_arquivo}.png', scale=6)
             print('OK')
             meuQR.svg(f'{nome_arquivo}_escala_8.svg', scale=8)
-            print('OK')
-            meuQR.png(f'{nome_arquivo}_escala_8.png', scale=8)
             QMessageBox.about(self, "Sucesso", "Gerado - Verifique a pasta")
         except:
             QMessageBox.about(self, "Erro", "Não Gerado")

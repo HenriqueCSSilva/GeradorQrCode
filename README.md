@@ -13,7 +13,6 @@ Python
 (Caso não tenha instalado na maquina:
 https://www.python.org/downloads/   )
 
-*Bibliotecas Usadas:*<br />
-Apos ter o instalado o python executar os comandos no CMD<br />
+*Bibliotecas Usadas(segue comando para instalação):*<br />
 pip install PyQt5<br />
 pip install PyQRCode<br />
