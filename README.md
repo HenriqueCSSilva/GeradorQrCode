@@ -14,6 +14,6 @@ Python
 https://www.python.org/downloads/   )
 
 *Bibliotecas Usadas:*
-Apos ter o instalado o python executar os comandos no CMD
-pip install PyQt5
-pip install PyQRCode
+Apos ter o instalado o python executar os comandos no CMD<br />
+pip install PyQt5<br />
+pip install PyQRCode<br />
